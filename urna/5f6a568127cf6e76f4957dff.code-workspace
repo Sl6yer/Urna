@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../timer-resolution_softradar-com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "5f6a568127cf6e76f4957dff"
+	}
+}
